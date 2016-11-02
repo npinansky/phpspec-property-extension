@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpspec/phpspec": "^3.1"
+        "phpspec/phpspec": "^3.1",
+        "phpunit/phpunit": "^5.6"
     }
 }
